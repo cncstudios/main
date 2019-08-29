@@ -755,7 +755,6 @@ u {
     max-height: 2vw;
     padding: 0 0.5vw;
     transition-duration: 0.3s;
-    opacity: 1;
 }
 
 .soc-med-icon:hover {
